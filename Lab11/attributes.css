@@ -1,0 +1,21 @@
+p{
+
+}
+#p1 {
+  color: Tomato;
+}
+#p2 {
+  color: Violet;
+}
+.blueish_color{
+  color: DodgerBlue;
+}
+
+
+.border_radius_8 {
+  border-radius: 8px;
+}
+
+.border_radius_50 {
+  border-radius: 50%;
+}
